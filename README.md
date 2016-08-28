@@ -1,2 +1,4 @@
 # hello-world
-first one no clue
+
+I appear to be similar to a human, mostly
+except for my DNA
